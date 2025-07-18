@@ -18,7 +18,7 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
 
 ## 🚀 Getting Started
 
-1. **Clone / Fork** this template.  
+1. **Clone / Fork** this template.  Very Important. Fork Name MUST be the same name as the teamn name
 2. **Install dependencies**  
    ```bash
    # Conda
