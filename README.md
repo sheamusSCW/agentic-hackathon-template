@@ -7,7 +7,14 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
 - A smoke-test script (`TEST.sh`)  
 - Documentation placeholders to explain your design and demo
 
----
+## 📋 Submission Checklist
+
+- [ ] All code in `src/` runs without errors  
+- [ ] `bash TEST.sh` completes successfully  
+- [ ] `ARCHITECTURE.md` contains a clear diagram sketch and explanation  
+- [ ] `EXPLANATION.md` covers planning, tool use, memory, and limitations  
+- [ ] `DEMO.md` links to a 3–5 min video with timestamped highlights  
+
 
 ## 🚀 Getting Started
 
@@ -21,6 +28,10 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
    #—or Docker—
    docker build -t agentic-agent .
    docker run --rm -it agentic-agent bash
+
+## 📂 Folder Layout
+
+![Folder Layout Diagram](images/folder-layout.png)
 
 
 ---
