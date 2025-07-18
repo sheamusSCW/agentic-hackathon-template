@@ -34,29 +34,19 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
 ![Folder Layout Diagram](images/folder-githb.png)
 
 
----
 
-## 2. `ARCHITECTURE.md`
+## 🏅 Judging Criteria
 
-```markdown
-# Architecture Overview
+- **Technical Excellence (30%)**  
+  This criterion evaluates the robustness, functionality, and overall quality of the technical implementation. Judges will assess the code's efficiency, the absence of critical bugs, and the successful execution of the project's core features.
 
-Below, sketch (ASCII, hand-drawn JPEG/PNG pasted in, or ASCII art) the high-level components of your agent.
+- **Solution Architecture & Documentation (30%)**  
+  This focuses on the clarity, maintainability, and thoughtful design of the project's architecture. This includes assessing the organization and readability of the codebase, as well as the comprehensiveness and conciseness of documentation (e.g., GitHub README, inline comments) that enables others to understand and potentially reproduce or extend the solution.
 
-## Components
+- **Innovative Gemini Integration (10%)**  
+  This criterion specifically assesses how effectively and creatively the Google Gemini API has been incorporated into the solution. Judges will look for novel applications, efficient use of Gemini's capabilities, and the impact it has on the project's functionality or user experience. You are welcome to use additional Google products.
 
-1. **User Interface**  
-   - E.g., Streamlit, CLI, Slack bot  
+- **Societal Impact & Novelty (30%)**  
+  This evaluates the project's potential to address a meaningful problem, contribute positively to society, or offer a genuinely innovative and unique solution. Judges will consider the originality of the idea, its potential real‑world applicability, and its ability to solve a challenge in a new or impactful way.
 
-2. **Agent Core**  
-   - **Planner**: how you break down tasks  
-   - **Executor**: LLM prompt + tool-calling logic  
-   - **Memory**: vector store, cache, or on-disk logs  
-
-3. **Tools / APIs**  
-   - E.g., Web search, calculator, database, custom endpoints  
-
-4. **Observability**  
-   - Logging of each reasoning step  
-   - Error handling / retries  
 
