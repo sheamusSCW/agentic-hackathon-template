@@ -31,7 +31,7 @@ Welcome! This repository is your starting point for the **Agentic AI App Hackath
 
 ## 📂 Folder Layout
 
-![Folder Layout Diagram](images/folder-layout.png)
+![Folder Layout Diagram](images/folder-githb.png)
 
 
 ---
